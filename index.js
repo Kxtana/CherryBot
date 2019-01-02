@@ -16,4 +16,4 @@ bot.on("ready", function() {
       }
 });
 
-bot.login("NTI5ODI5Njg5NDY5MDQyNzA2.Dw2iHQ.GEQ48Ci7qSykyl3xYnHEkHXblCc");
+bot.login(process.env.TOKEN];
